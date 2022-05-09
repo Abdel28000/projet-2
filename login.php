@@ -1,6 +1,6 @@
 <?php
 
-echo 'hallo Wprld'
+echo "hallo world !\n";
 
 
 ?>
